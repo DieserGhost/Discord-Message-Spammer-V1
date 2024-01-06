@@ -19,6 +19,8 @@ Spam a message | Only for education....
 
 (Step 7) Scroll down now you have everything..
 
+(Step 8) Rename /typing to /messages
+
 INFO: authorization_key is Authorization
 
 INFO 2: api_url is Request URL
